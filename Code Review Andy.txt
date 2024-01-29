@@ -1,0 +1,6 @@
+Code Review for Andy
+
+
+At first glance, his code is readable and his use of comments throughout his code is clear and by commenting your code gives transparency and information to team members or for anyone who views the program. I noticed his use of if-else statments to catch user errors and he provide detailed descriptions of what the user did. I also saw the use of many LINQ queries and I by factoring out the code into functions or methods would reduce redundancy.
+
+I took a look at his Form.cs and it was user friendly and well structured so that users knew what they were searching or filtering for. I liked how he Something that I noticed that differed his code to mine is displaying his searched data through a data grid view. I used a list box, but it just goes to show that there are many ways to display your data. Overall, his code was well put together and his logics with his buttons were functional and executable.
