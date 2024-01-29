@@ -1,0 +1,12 @@
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\bin\Debug\ProductDB.mdf
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\bin\Debug\ProductDB_log.ldf
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\bin\Debug\CPT206-AndrewJablonski-Lab-1.exe.config
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\bin\Debug\CPT206-AndrewJablonski-Lab-1.exe
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\bin\Debug\CPT206-AndrewJablonski-Lab-1.pdb
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\obj\Debug\CPT206-AndrewJablonski-Lab-1.csproj.AssemblyReference.cache
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\obj\Debug\CPT206_AndrewJablonski_Lab_1.Form1.resources
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\obj\Debug\CPT206_AndrewJablonski_Lab_1.Properties.Resources.resources
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\obj\Debug\CPT206-AndrewJablonski-Lab-1.csproj.GenerateResource.cache
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\obj\Debug\CPT206-AndrewJablonski-Lab-1.csproj.CoreCompileInputs.cache
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\obj\Debug\CPT206-AndrewJablonski-Lab-1.exe
+C:\Users\asjab\source\repos\CPT206-AndrewJablonski-Lab-1\obj\Debug\CPT206-AndrewJablonski-Lab-1.pdb
