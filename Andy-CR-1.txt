@@ -1,0 +1,9 @@
+-Positive Feedback
+-The program is well organized and readable. Well indented comments. Easy to follow, navigate, and understand
+-Coder's work exhibits solid understanding of LINQ
+-Checks for null and empty strings to improve over all robustness of the application
+
+-Overall feedback
+-Add more validation to ensure that user inputs are valid
+-Provide clear feedback to users about the status of their actions. 
+-
