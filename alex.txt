@@ -1,0 +1,3 @@
+The comments provided are helpful, but some more detailed explanations could enhance readability and understanding. Comments can explain not just what the code does, but why it does it.
+The code does some basic error handling, such as checking if text boxes are empty before performing searches. However, it might be helpful to provide more specific error messages for different types of errors. 
+For example, if the user enters non-numeric values in the text boxes meant for numeric input, you could provide a specific error message indicating that only numeric values are allowed.
